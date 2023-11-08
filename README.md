@@ -16,6 +16,7 @@ Objective:
 The aim is to provide a comprehensive set of files that can be used to replicate the study, facilitate further research, and serve as an educational tool for those interested in CFD applications in EOR.
 
 Usage:
+Run following command in Terminal
 - IdeasUnvToFoam
 - multiphaseInterFoam
 - it is also possible to run in parallel using 'decomposePar' and 'mpirun -np 12 multiphaseInterFoam -parallel' commands
