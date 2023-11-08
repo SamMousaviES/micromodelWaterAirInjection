@@ -1,4 +1,4 @@
-Title: Enhanced Oil Recovery Simulations with OpenFOAM
+Title: Enhanced Oil Recovery Simulations with OpenFOAM 11
 
 This repository contains the simulation files and resources used in the study of enhanced oil recovery (EOR) techniques, as detailed in the blog post "Exploring Enhanced Oil Recovery: A Comparative Study of Water and Air Injection with OpenFOAM’s multiphaseInterFoam Solver" by Sam Mousavi.
 
