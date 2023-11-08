@@ -16,7 +16,10 @@ Objective:
 The aim is to provide a comprehensive set of files that can be used to replicate the study, facilitate further research, and serve as an educational tool for those interested in CFD applications in EOR.
 
 Usage:
-Follow the instructions in the README.md file to set up and run the simulations. The repository is structured to guide users through the process, from initial setup to final analysis.
+- IdeasUnvToFoam
+- multiphaseInterFoam
+- it is also possible to run in parallel using 'decomposePar' and 'mpirun -np 12 multiphaseInterFoam -parallel' commands
+
 
 Contribution:
 Contributions to this project are welcome. Whether it's refining the simulation setup, enhancing the post-processing tools, or expanding the scope of the study, your input can help advance the understanding of EOR techniques.
